@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 👯 I’m looking to collaborate on **Flight Booking Website**
+<!-- - 👯 I’m looking to collaborate on **Flight Booking Website** -->
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Java, Python**
 
