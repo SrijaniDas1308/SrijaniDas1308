@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Java, Python**
 
-- 📫 How to reach me **srijanidas1@gmail.com**
+- 📫 Reach me **srijanidas1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
