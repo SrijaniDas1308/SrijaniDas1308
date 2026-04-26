@@ -94,21 +94,6 @@ I'm a data analyst who loves the moment a chaotic spreadsheet becomes a story. M
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=SrijaniDas1308&show_icons=true&theme=dark&title_color=fbbf24&icon_color=fbbf24&text_color=e2e8f0&bg_color=0f0f1a&border_color=4338ca&count_private=true&card_width=420&hide_rank=true" height="160" width="420"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijaniDas1308&layout=compact&theme=dark&title_color=fbbf24&text_color=e2e8f0&bg_color=0f0f1a&border_color=4338ca&langs_count=6&hide=javascript,css,html&card_width=420" height="160" width="420"/></td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
