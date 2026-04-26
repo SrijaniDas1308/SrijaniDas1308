@@ -1,72 +1,6 @@
 <div align="center">
 
-<!-- HEADER SVG - embedded, animated shimmer bg -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%">
-  <defs>
-    <linearGradient id="hBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e1b4b"/>
-      <stop offset="45%" style="stop-color:#3730a3"/>
-      <stop offset="75%" style="stop-color:#4f46e5"/>
-      <stop offset="100%" style="stop-color:#6d28d9"/>
-    </linearGradient>
-    <!-- animated shimmer overlay -->
-    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#c7d2fe;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#e0e7ff;stop-opacity:0.07"/>
-      <stop offset="100%" style="stop-color:#c7d2fe;stop-opacity:0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3s" repeatCount="indefinite"/>
-    </linearGradient>
-    <linearGradient id="hW1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#312e81;stop-opacity:0.65"/>
-      <stop offset="100%" style="stop-color:#4c1d95;stop-opacity:0.65"/>
-    </linearGradient>
-    <linearGradient id="hW2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e1b4b;stop-opacity:0.45"/>
-      <stop offset="100%" style="stop-color:#2e1065;stop-opacity:0.45"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Base bg -->
-  <rect width="1200" height="220" fill="url(#hBg)"/>
-  <!-- Animated shimmer -->
-  <rect width="1200" height="220" fill="url(#shimmer)"/>
-
-  <!-- Subtle dot pattern -->
-  <circle cx="80" cy="40" r="1.5" fill="#c7d2fe" fill-opacity="0.25"/>
-  <circle cx="200" cy="70" r="1" fill="#c7d2fe" fill-opacity="0.2"/>
-  <circle cx="350" cy="30" r="2" fill="#c7d2fe" fill-opacity="0.18"/>
-  <circle cx="500" cy="55" r="1.5" fill="#c7d2fe" fill-opacity="0.22"/>
-  <circle cx="700" cy="25" r="1" fill="#c7d2fe" fill-opacity="0.2"/>
-  <circle cx="850" cy="60" r="2" fill="#c7d2fe" fill-opacity="0.18"/>
-  <circle cx="1000" cy="35" r="1.5" fill="#c7d2fe" fill-opacity="0.25"/>
-  <circle cx="1150" cy="50" r="1" fill="#c7d2fe" fill-opacity="0.2"/>
-  <circle cx="140" cy="160" r="1.5" fill="#c7d2fe" fill-opacity="0.15"/>
-  <circle cx="430" cy="170" r="1" fill="#c7d2fe" fill-opacity="0.15"/>
-  <circle cx="780" cy="165" r="2" fill="#c7d2fe" fill-opacity="0.12"/>
-  <circle cx="1060" cy="155" r="1.5" fill="#c7d2fe" fill-opacity="0.15"/>
-
-  <!-- Wave layers -->
-  <path d="M0,138 C150,95 300,168 450,128 C600,88 750,165 900,128 C1050,90 1150,132 1200,115 L1200,220 L0,220 Z" fill="url(#hW1)"/>
-  <path d="M0,168 C120,142 260,182 400,162 C560,140 700,178 860,158 C1000,140 1110,166 1200,152 L1200,220 L0,220 Z" fill="url(#hW2)"/>
-
-  <!-- Name — big, lavender -->
-  <text x="600" y="88"
-        font-family="Segoe UI, Arial, sans-serif"
-        font-size="100"
-        font-weight="700"
-        fill="#c7d2fe"
-        text-anchor="middle"
-        letter-spacing="-1"><b>Srijani Das</b></text>
-
-  <!-- Subtitle below name -->
-  <text x="600" y="126"
-        font-family="Segoe UI, Arial, sans-serif"
-        font-size="16"
-        font-weight="400"
-        fill="rgba(224,231,255,0.78)"
-        text-anchor="middle"
-        letter-spacing="5">BUSINESS &amp; DATA ANALYST</text>
-</svg>
+![header](header.gif)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818cf8&center=true&vCenter=true&width=620&lines=Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;Turning+Raw+Data+into+Business+Impact;Open+to+Analyst+Roles+%F0%9F%9A%80" alt="Typing SVG" />
@@ -180,45 +114,8 @@ Actively looking for **Business Analyst**, **Data Analyst** & **Financial Analys
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijanidas1308)
 [![Email](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijanidas1308@gmail.com)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<!-- FOOTER SVG - embedded, animated shimmer -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="100%">
-  <defs>
-    <linearGradient id="fBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e1b4b"/>
-      <stop offset="45%" style="stop-color:#3730a3"/>
-      <stop offset="75%" style="stop-color:#4f46e5"/>
-      <stop offset="100%" style="stop-color:#6d28d9"/>
-    </linearGradient>
-    <linearGradient id="fShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#c7d2fe;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#e0e7ff;stop-opacity:0.07"/>
-      <stop offset="100%" style="stop-color:#c7d2fe;stop-opacity:0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3s" repeatCount="indefinite"/>
-    </linearGradient>
-    <linearGradient id="fW" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#312e81;stop-opacity:0.6"/>
-      <stop offset="100%" style="stop-color:#4c1d95;stop-opacity:0.6"/>
-    </linearGradient>
-  </defs>
-  <!-- wave top -->
-  <path d="M0,58 C150,18 300,78 450,48 C600,18 750,72 900,48 C1050,22 1150,52 1200,38 L1200,0 L0,0 Z" fill="url(#fW)"/>
-  <rect y="38" width="1200" height="72" fill="url(#fBg)"/>
-  <path d="M0,58 C150,18 300,78 450,48 C600,18 750,72 900,48 C1050,22 1150,52 1200,38 L1200,110 L0,110 Z" fill="url(#fBg)"/>
-  <!-- shimmer -->
-  <rect width="1200" height="110" fill="url(#fShimmer)"/>
-  <!-- dots -->
-  <circle cx="120" cy="80" r="1.5" fill="#c7d2fe" fill-opacity="0.2"/>
-  <circle cx="400" cy="90" r="1" fill="#c7d2fe" fill-opacity="0.18"/>
-  <circle cx="700" cy="82" r="2" fill="#c7d2fe" fill-opacity="0.15"/>
-  <circle cx="1000" cy="88" r="1.5" fill="#c7d2fe" fill-opacity="0.2"/>
-  <!-- quote -->
-  <text x="600" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="rgba(199,210,254,0.82)" text-anchor="middle" font-style="italic">"Without data, you're just another person with an opinion." — W. Edwards Deming</text>
-</svg>
+![footer](footer.gif)
 
 </div>
